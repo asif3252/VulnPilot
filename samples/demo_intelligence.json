@@ -1,0 +1,12 @@
+{
+  "source": "SYNTHETIC DEMO - fictional CVEs and evidence",
+  "date": "2026-11-01",
+  "records": [
+    {"cve":"CVE-2099-10001","kev":true,"epss":0.94},
+    {"cve":"CVE-2099-10002","kev":false,"epss":0.46},
+    {"cve":"CVE-2099-10003","kev":true,"epss":0.71},
+    {"cve":"CVE-2099-10004","kev":false,"epss":0.02},
+    {"cve":"CVE-2099-10005","kev":false,"epss":0.01},
+    {"cve":"CVE-2099-10007","kev":false,"epss":0.001}
+  ]
+}

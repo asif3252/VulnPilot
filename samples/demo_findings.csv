@@ -1,0 +1,9 @@
+asset,cve,title,cvss,criticality,internet_exposed,owner
+edge-gateway-demo,CVE-2099-10001,DEMO gateway remote execution finding,9.8,5,true,Infrastructure
+customer-api-demo,CVE-2099-10002,DEMO API dependency finding,8.1,5,true,Platform
+payroll-db-demo,CVE-2099-10003,DEMO database privilege issue,8.8,5,false,Data Services
+lab-workstation-demo,CVE-2099-10004,DEMO local privilege issue,7.8,2,false,IT Support
+internal-wiki-demo,CVE-2099-10005,DEMO information disclosure,5.3,2,false,Internal Tools
+legacy-vpn-demo,CVE-2099-10006,DEMO missing intelligence finding,9.1,4,true,Infrastructure
+build-runner-demo,CVE-2099-10002,DEMO build dependency finding,8.1,4,false,DevOps
+archive-host-demo,CVE-2099-10007,DEMO low impact issue,2.1,1,false,IT Support
